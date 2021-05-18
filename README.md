@@ -32,5 +32,22 @@ _this is also italic
 
 ![nature](https://i.pinimg.com/736x/50/df/34/50df34b9e93f30269853b96b09c37e3b.jpg)
 
+# blockquotes
+
+> this is blockquotes
+
+## inline code
+
+`Mic College`
+
+# table creating
+
+technology | percentage
+---------- | ----------
+python     |  100%
+java       |   95%
+html       |    80%
+
+
           
                 
