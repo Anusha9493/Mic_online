@@ -50,7 +50,7 @@ html       |    80%
 
 ## email
   
-mail id is:[gmail] (busireddyanusha@gmail.com)
+mail id is: (busireddyanusha@gmail.com)
 
           
                 
